@@ -1,0 +1,10 @@
+{"level":"info","message":"Server running in undefined mode on port 5000","timestamp":"2025-05-20T19:12:31.914Z"}
+{"level":"info","message":"Server running in undefined mode on port 5000","timestamp":"2025-05-20T19:14:34.936Z"}
+{"level":"info","message":"Server running in undefined mode on port 3000","timestamp":"2025-05-20T19:15:22.757Z"}
+{"level":"info","message":"::1 - - [20/May/2025:19:19:33 +0000] \"POST /api/products HTTP/1.1\" 401 35 \"-\" \"PostmanRuntime/7.44.0\"","timestamp":"2025-05-20T19:19:33.185Z"}
+{"level":"info","message":"::1 - - [20/May/2025:19:25:45 +0000] \"POST /api/auth/signup HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.44.0\"","timestamp":"2025-05-20T19:25:45.749Z"}
+{"level":"info","message":"::1 - - [20/May/2025:19:27:28 +0000] \"POST /api/auth/signup HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.44.0\"","timestamp":"2025-05-20T19:27:28.997Z"}
+{"level":"info","message":"::1 - - [20/May/2025:19:28:22 +0000] \"POST /api/auth/register HTTP/1.1\" 404 157 \"-\" \"PostmanRuntime/7.44.0\"","timestamp":"2025-05-20T19:28:22.916Z"}
+{"level":"info","message":"::1 - - [20/May/2025:19:30:13 +0000] \"POST /api/products HTTP/1.1\" 401 35 \"-\" \"PostmanRuntime/7.44.0\"","timestamp":"2025-05-20T19:30:13.289Z"}
+{"level":"info","message":"Server running in undefined mode on port 3000","timestamp":"2025-05-20T19:31:43.065Z"}
+{"level":"info","message":"::1 - - [20/May/2025:19:32:37 +0000] \"POST /api/products HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.44.0\"","timestamp":"2025-05-20T19:32:37.682Z"}
